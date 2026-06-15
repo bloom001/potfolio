@@ -1,0 +1,6 @@
+{
+  "css.lint.unknownAtRules": "ignore",
+  "terminal.integrated.env.windows": {
+    "PATH": "C:\\Users\\hp\\.gemini\\antigravity-ide\\nodejs;${env:PATH}"
+  }
+}
