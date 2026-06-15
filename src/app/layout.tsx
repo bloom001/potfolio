@@ -62,6 +62,7 @@ export default function RootLayout({
       lang="en"
       className={`${poppins.variable} ${firaCode.variable} dark`}
       style={{ colorScheme: "dark" }}
+      suppressHydrationWarning
     >
       <head>
         {/* Inline script to prevent theme flashing on reload */}
